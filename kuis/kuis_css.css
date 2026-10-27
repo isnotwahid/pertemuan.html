@@ -1,0 +1,41 @@
+th {
+    background-color: #008055;
+    color: #f8f9f9;
+    
+}
+
+td {
+     background-color: #f8f9f9;
+     
+}
+body {
+    background-color: #c8ffed;
+}
+table,th,td {
+    border: 1px solid;
+}
+table {
+    border-collapse: collapse;
+    
+}
+th, td {
+    padding: 10px;
+    
+}
+
+.total {
+    text-align: right;
+    font-weight: bold;
+}
+.jumlah {
+     font-weight: bold;
+}
+tr {
+    border-style: solid;
+    border-color: rgb(0, 0, 0, 1);
+    
+}
+td {
+    border-style: solid;
+    border-color: rgb(0, 0, 0, 1);
+}
